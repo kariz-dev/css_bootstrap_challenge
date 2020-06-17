@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+}
+
+.navb {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.nav2 {
+    justify-content: center;
+}
+
+div .jumbotron {
+    justify-content: center;
+}
+div .jumbotron img {
+    height: 300px;
+}
